@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bci.apicliente.ApiclienteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.180 s -- in com.bci.apicliente.ApiclienteApplicationTests
